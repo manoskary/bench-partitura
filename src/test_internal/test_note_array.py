@@ -1,7 +1,6 @@
 import unittest
 import partitura
 import time
-from utils import helper_func
 from music21.converter import parse
 
 class ExportNotearrays(unittest.TestCase):

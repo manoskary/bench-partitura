@@ -1,7 +1,7 @@
 import partitura
 from music21.converter import parse
 import numpy as np
-from test_runtime import MUSICXML_TESTFILES
+from src.test_runtime import MUSICXML_TESTFILES
 import matplotlib.pyplot as plt
 import time
 

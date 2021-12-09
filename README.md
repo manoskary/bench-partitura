@@ -26,6 +26,6 @@ You can run the bench functions to output plots or run the Unitests to check if 
 
 **Example :**
 ```shell
-cd bench-partitura
+cd src
 python ./test_runtime/bench_xml_runtime.py
 ```
